@@ -1,5 +1,5 @@
-pandas
-Flask
-tensorflow
-gunicorn
-numpy
+pandas==2.1.2
+Flask==3.0.0
+tensorflow==2.14
+gunicorn==21.2.0
+numpy==1.26.0
