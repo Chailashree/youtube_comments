@@ -59,7 +59,6 @@ referencing
 requests
 requests-oauthlib
 rich
-rpds-py
 rsa
 scikit-learn
 scipy
